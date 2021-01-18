@@ -18,7 +18,7 @@ Focus on Exploratory Data Analysis and Feature Engineering
 ## 5. [Cancer Classification Project](https://github.com/M87K452b/breast-cancer-classification)
 Categorical Classification Project of Breast cancer wisconsin (diagnostic) dataset using Tensorflow 2.0 & Keras.
 
-## 6. [Deep Learning - Porfolio Project]()
+## 6. [Deep Learning - Porfolio Project](https://github.com/M87K452b/deep-learning-loan-prediction)
 Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), 
-a model that can predict wether a borrower will pay back their loan is built. This is a binary classification type of prediction-
-*  The "loan_status" column is the label.
+a model that can predict wether a borrower will pay back their loan is built. This is a binary classification type
+of prediction.
