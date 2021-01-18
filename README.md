@@ -12,7 +12,7 @@ Timeseries predictions of stock data using LSTM neural networks.
 Categorical image classification of images using MNIST hand written digit dataset,tensorflow and keras.
 
 ## 4. [Regression Learning - Housing Price prediction](https://github.com/M87K452b/regression-learning-housing-prices)
-Focus on Exploratory Data Analysis and Machine Learning
+Focus on Exploratory Data Analysis and Feature Engineering
 
 ## 5. [Cancer Classification Project](https://github.com/M87K452b/breast-cancer-classification)
 Categorical Classification Project of Breast cancer wisconsin (diagnostic) dataset using Tensorflow 2.0 & Keras.
