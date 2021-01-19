@@ -23,6 +23,6 @@ Given historical data on loans given out with information on whether or not the 
 a model that can predict wether a borrower will pay back their loan is built. This is a binary classification type
 of prediction.
 
-## 7. [Natuaral Language Processing - Projects]()
+## 7. [Natuaral Language Processing - Projects](https://github.com/M87K452b/NLP-using-nltk)
 *  **UCI spam vs ham - SMS detection - Project**
 *  **Kaggle Yelp Data - Yelp review classification - Project**
