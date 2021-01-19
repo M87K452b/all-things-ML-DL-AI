@@ -3,7 +3,10 @@
 ### This repository contains links to all the Machine Learning - Deep Learning - AI projects I have learned and worked on.
 
 ## 1. [AI-problem from U-Berkeley](https://github.com/M87K452b/ai-berkley-experimentation)
-Contains Pacman search solutions, MNIST digit recognition and timeseries prediction projects.
+Contains Pacman solutions for
+  - Breath First Search
+  - Deapth First Search
+  - Uniform Cost Graph Search
 
 ## 2. [Time Series Predictions for stock data](https://github.com/M87K452b/timeseries-prediction-lstm-applectock)
 Timeseries predictions of stock data using LSTM neural networks.
