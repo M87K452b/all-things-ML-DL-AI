@@ -22,3 +22,7 @@ Categorical Classification Project of Breast cancer wisconsin (diagnostic) datas
 Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), 
 a model that can predict wether a borrower will pay back their loan is built. This is a binary classification type
 of prediction.
+
+## 7. [Natuaral Language Processing - Projects]()
+*  **UCI spam vs ham - SMS detection - Project**
+*  **Kaggle Yelp Data - Yelp review classification - Project**
